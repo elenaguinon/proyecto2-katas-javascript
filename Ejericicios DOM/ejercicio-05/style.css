@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgba(34, 34, 34, 1);
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+}
+
+header {
+  background-color: rgba(128, 0, 0, 1);
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+.contenedor-albums {
+  background-color: rgba(51, 51, 51, 1);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.lista-albums {
+  padding-left: 20px;
+}
+
+.album {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: rgba(17, 17, 17, 1);
+}
